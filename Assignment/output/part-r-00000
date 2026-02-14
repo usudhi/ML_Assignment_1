@@ -1,0 +1,13 @@
+$	3
+-cat	2
+-ls	1
+/user/joe/wordcount/input/	1
+/user/joe/wordcount/input/file01	2
+/user/joe/wordcount/input/file02	2
+Bye	1
+Goodbye	1
+Hadoop	2
+Hello	2
+World	2
+bin/hadoop	3
+fs	3

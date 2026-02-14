@@ -1,0 +1,9 @@
+$ bin/hadoop fs -ls /user/joe/wordcount/input/
+/user/joe/wordcount/input/file01
+/user/joe/wordcount/input/file02
+
+$ bin/hadoop fs -cat /user/joe/wordcount/input/file01
+Hello World Bye World
+
+$ bin/hadoop fs -cat /user/joe/wordcount/input/file02
+Hello Hadoop Goodbye Hadoop
